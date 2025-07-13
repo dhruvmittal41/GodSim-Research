@@ -16,6 +16,8 @@ open the folder in Visual studio code
 
 run commands :
 
+git init
+
 git add .
 
 git commit -am " Add any msg for the file you are commiting here "
